@@ -3,7 +3,7 @@
 An end-to-end Business Intelligence project demonstrating how Python, Tableau, and data analytics can support strategic decision-making within a K–12 school district.
 
 **Live Dashboard:**  
-▶ https://public.tableau.com/views/tabschool/Dashboard1?:language=en-US&publish=yes
+▶[ https://public.tableau.com/views/tabschool/Dashboard1?:language=en-US&publish=yes](https://public.tableau.com/shared/5HXJF8QT3?:display_count=n&:origin=viz_share_link)
 
 > **Note:** All data in this project is fictional and was created for portfolio and demonstration purposes. Pinehill School District is not a real organization.
 
@@ -184,21 +184,37 @@ These findings should be used to guide future investigation rather than serve as
 
 ### Superintendent Dashboard
 
-![Superintendent Scores](screenshots/superintendent_scores.png)
+
+
+https://github.com/user-attachments/assets/f73b49f4-672e-4802-b855-1921519afe03
+
+
+
+
+
+
+
+
 
 ---
 
 ### Human Resources Dashboard
 
-![HR Insights](screenshots/hr_insights.png)
+
+
+https://github.com/user-attachments/assets/9c55c214-e876-445b-b8fe-d46219b686c9
+
 
 ---
 
-### District Rankings
+### Principal Dashboard
 
-![Rankings](screenshots/rankings.png)
 
----
+
+
+https://github.com/user-attachments/assets/ff77e954-85d2-49fe-8270-73f6bdca5584
+
+
 
 # Skills Demonstrated
 
