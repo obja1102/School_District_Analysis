@@ -1,4 +1,4 @@
-# Pinehill School District Analytics Portal
+# School District Anlysis
 
 An end-to-end Business Intelligence project demonstrating how Python, Tableau, and data analytics can support strategic decision-making within a K–12 school district.
 
@@ -173,7 +173,7 @@ These findings should be used to guide future investigation rather than serve as
 │   └── Pinehill School District Analytics Portal.twbx
 │
 ├── presentation/
-│   └── Pinehill Analysis and Recommendations.pptx
+│   └──  Executive_Analysis_and_Recommendations.pdf
 │
 └── screenshots/
 ```
